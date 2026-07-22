@@ -1,16 +1,117 @@
-## Hi there 👋
+# Hi 👋, I'm Sujith C
 
-<!--
-**sujith123143/sujith123143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Full Stack Developer | AI & ML Enthusiast | Open Source Learner
 
-Here are some ideas to get you started:
+🎓 B.E. Computer Science and Engineering
+💻 Passionate about Python, Backend Development, and Machine Learning
+🌱 Currently learning Advanced Django, FastAPI, System Design, and Cloud Technologies
+🚀 Looking for Python Full Stack Developer opportunities
+📍 Tamil Nadu, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔹 Python Full Stack Developer (Fresher)
+- 🔹 Interested in Backend Development & REST APIs
+- 🔹 Learning AI, Machine Learning, and Data Structures
+- 🔹 Building real-world Python projects
+- 🔹 Always learning new technologies
+
+---
+
+## 🛠 Tech Stack
+
+### Programming Languages
+- Python
+- JavaScript
+- SQL
+
+### Backend
+- Django
+- Flask
+- FastAPI
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Bootstrap
+
+### Database
+- MySQL
+- PostgreSQL
+
+### Python Libraries
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 📂 Featured Projects
+
+### 🚚 Smart Parcel Delivery Risk Prediction & Route Optimization
+- Python
+- FastAPI
+- React
+- Machine Learning
+- Random Forest
+- Genetic Algorithm
+- Leaflet Maps
+
+### 📊 Data Analysis Projects
+- Pandas
+- NumPy
+- Matplotlib
+
+### 🌐 Python Full Stack Applications
+- Django
+- Flask
+- REST APIs
+
+---
+
+## 📈 Currently Learning
+
+✔ Advanced Python
+
+✔ Django REST Framework
+
+✔ FastAPI
+
+✔ PostgreSQL
+
+✔ Docker
+
+✔ AWS
+
+✔ System Design
+
+✔ Data Structures & Algorithms
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: sujithstrat@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+
+🌐 Portfolio: https://YOUR_PORTFOLIO
+
+---
+
+## 💡 Quote
+
+"Code. Learn. Build. Repeat."
+
+⭐ Thanks for visiting my profile!   
