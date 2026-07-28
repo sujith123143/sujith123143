@@ -104,9 +104,9 @@
 
 📧 Email: sujithstrat@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+💼 LinkedIn:  www.linkedin.com/in/sujith--c
 
-🌐 Portfolio: https://YOUR_PORTFOLIO
+
 
 ---
 
