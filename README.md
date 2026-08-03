@@ -46,8 +46,6 @@
 ### Python Libraries
 - NumPy
 - Pandas
-- Matplotlib
-- Scikit-learn
 
 ### Tools
 - Git
